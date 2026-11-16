@@ -1,10 +1,10 @@
 <div align="center">
 
-# Salom, men Alisher Boltaev 👋
+# Hi, I'm Alisher Boltaev 👋
 
-**Veb-dasturchi · O'zbekiston 🇺🇿**
+**Web Developer · Uzbekistan 🇺🇿**
 
-Real foydalanuvchilar uchun ishlaydigan, tez va chiroyli veb-saytlar yarataman: backend'dan tortib serverga joylashgacha.
+I build fast, good-looking web apps that real people use, from the backend all the way to production deployment.
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Alisher__Boltaev-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Alisher_Boltaev)
 [![Instagram](https://img.shields.io/badge/Instagram-alisherboltaev__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/alisherboltaev_/)
@@ -13,14 +13,14 @@ Real foydalanuvchilar uchun ishlaydigan, tez va chiroyli veb-saytlar yarataman: 
 
 ---
 
-### 🚀 Loyihalar
+### 🚀 Projects
 
-| Loyiha | Tavsif | Texnologiyalar |
+| Project | Description | Tech |
 |---|---|---|
-| ⚽ **[eFootball Arena](https://github.com/alisherboltaev/efootball-arena)**<br>[efootballarena.uz](https://efootballarena.uz) | eFootball turnirlari platformasi: UEFA formati, Jahon chempionati, liga va kubok, dedlaynlar, kartochkalar, admin huquqlari. 10 000+ ishtirokchini ko'taradi | Python · JavaScript · Caddy · Linux |
-| 📒 **[Baholash jurnali](https://github.com/alisherboltaev/baholash-jurnali)** | O'qituvchilar uchun real vaqtda ishlaydigan baholash jurnali: statistika, davomat, Excel'ga eksport | JavaScript · Firebase |
+| ⚽ **[eFootball Arena](https://github.com/alisherboltaev/efootball-arena)**<br>[efootballarena.uz](https://efootballarena.uz) | eFootball tournament platform: UCL-style league phase, World Cup, leagues and cups, deadlines, disciplinary cards and role-based admin permissions. Scales to 10,000+ participants | Python · JavaScript · Caddy · Linux |
+| 📒 **[Gradebook](https://github.com/alisherboltaev/baholash-jurnali)** | Real-time online gradebook for teachers with statistics, attendance and Excel export | JavaScript · Firebase |
 
-### 🛠 Texnologiyalar
+### 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,6 +34,6 @@ Real foydalanuvchilar uchun ishlaydigan, tez va chiroyli veb-saytlar yarataman: 
 
 <div align="center">
 
-💬 Taklif yoki hamkorlik bo'yicha [Telegram](https://t.me/Alisher_Boltaev) orqali yozing.
+💬 Open to ideas and collaboration. Reach me on [Telegram](https://t.me/Alisher_Boltaev).
 
 </div>
