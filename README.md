@@ -30,15 +30,6 @@ Real foydalanuvchilar uchun ishlaydigan, tez va chiroyli veb-saytlar yarataman: 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📈 GitHub statistikasi
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alisherboltaev&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisherboltaev&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-
-</div>
-
 ---
 
 <div align="center">
